@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%2011d0c2691002aa620b9a7804700d4472ad81b458-yellow.svg)](https://github.com/lorence-crowdbotics/bakery_scaffold_hM8QF39jzGXPQTst/commit/11d0c2691002aa620b9a7804700d4472ad81b458)
+[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%20c565ee1a5dafb17f668b713acfb501a19617de2f-yellow.svg)](https://github.com/lorence-crowdbotics/bakery_scaffold_hM8QF39jzGXPQTst/commit/c565ee1a5dafb17f668b713acfb501a19617de2f)
+
 
 
 
